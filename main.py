@@ -84,16 +84,16 @@ class WindowManager(ScreenManager):
 
 def invalidLogin():
     # Cria um popup para login inválido
-    pop = Popup(title='Invalid Login',
-                content=Label(text='Invalid username or password.'),
+    pop = Popup(title='Login inválido',
+                content=Label(text='Nome de usuário ou senha inválidos.'),
                 size_hint=(None, None), size=(400, 400))
     pop.open()
 
 
 def invalidForm():
     # Cria um popup para formulário inválido
-    pop = Popup(title='Invalid Form',
-                content=Label(text='Please fill in all inputs with valid information.'),
+    pop = Popup(title='Formulário inválido',
+                content=Label(text='Preencha todas as entradas com informações válidas.'),
                 size_hint=(None, None), size=(400, 400))
     pop.open()
 
