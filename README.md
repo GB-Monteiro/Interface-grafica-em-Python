@@ -34,7 +34,7 @@ Clone o repositório (ou faça o download dos arquivos):
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/GB-Monteiro/Interface-grafica-em-Python.git
 cd MeuProjeto
 Instale os requisitos: Certifique-se de que o Python 3.x está instalado e instale o Kivy:
 
