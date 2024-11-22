@@ -20,7 +20,7 @@ Armazena os dados de e-mail e senha no arquivo userx.txt dentro da pasta do proj
 Python: Linguagem principal do projeto.
 Kivy: Framework para construção de interfaces gráficas modernas e responsivas.
 Banco de Dados Local: Utilização de um arquivo .txt para simular o armazenamento de dados.
-📁 Estrutura do Projeto
+📂 Estrutura do Projeto
 bash
 Copiar código
 📂 kivy_project
@@ -34,7 +34,7 @@ Clone o repositório (ou faça o download dos arquivos):
 
 bash
 Copiar código
-git clone https://github.com/GB-Monteiro/Interface-grafica-em-Python/tree/363e26fd8b158a99e107b528443b5f2a83887edc
+git clone https://github.com/seu-usuario/seu-repositorio.git
 cd MeuProjeto
 Instale os requisitos: Certifique-se de que o Python 3.x está instalado e instale o Kivy:
 
@@ -58,13 +58,8 @@ Copiar código
 email;senha;nome;data_de_criacao
 Caso o arquivo não exista, ele será criado automaticamente ao rodar o programa.
 
-📚 Possíveis Melhorias
-Implementar hashing de senhas para maior segurança.
-Migrar o armazenamento para um banco de dados SQL ou NoSQL.
-Adicionar validação de e-mail.
-Estilização mais avançada utilizando recursos visuais do Kivy.
 🧑‍💻 Autor
-Seu Nome: Desenvolvedor do projeto.
-LinkedIn | Portfólio
+Gabriel Monteiro Siqueira: Desenvolvedor do projeto.
+https://www.linkedin.com/in/gabriel-monteiro-187219246/
 📄 Licença
 Este projeto é de uso livre. Sinta-se à vontade para estudar, modificar e reutilizar.
